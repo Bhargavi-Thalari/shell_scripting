@@ -4,7 +4,7 @@
 # Date: 31-07-2026
 # Description: Listing out the user how as access to the particular Reposistory
 
-set -x # debug mode
+# set -x # debug mode
 set -e # Exit the script if any error occurs
 set -o pipefail
 
