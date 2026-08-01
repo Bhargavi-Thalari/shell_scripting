@@ -178,7 +178,7 @@ Display Usernames
 
 The GitHub API returns the complete JSON response, which contains a lot of information that is not required for this project.
 
-![Output Without jq](Output-without-jq.png)
+![Output Without jq](Output_without_jq.png)
 
 ---
 
