@@ -178,7 +178,7 @@ Display Usernames
 
 The GitHub API returns the complete JSON response, which contains a lot of information that is not required for this project.
 
-![Output Without jq](output-without-jq.png)
+![Output Without jq](Output-without-jq.png)
 
 ---
 
@@ -186,7 +186,7 @@ The GitHub API returns the complete JSON response, which contains a lot of infor
 
 Using `jq`, the JSON response is filtered to display only the usernames of users who have **read access** to the repository.
 
-![Output With jq](outPut.png)
+![Output With jq](OutPut.png)
 
 #  Sample Output
 
